@@ -1,0 +1,8 @@
+{
+  "name": "ioszhuk/seo-pack",
+  "description": "This is seo module for seo settings",
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "~2.0.6"
+  }
+}
